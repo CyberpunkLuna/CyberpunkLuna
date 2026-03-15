@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there! 👋
+I'm Luna and I'm a graduate of the University of Lethbridge with a Bachelors degree in Computer Science and Geography. 
+
+I'm a big fan and proponent of the open source movement, my current open source darling is the Godot engine, as game development should be accessible to everyone.
+
+### Some more about myself:
+- I'm currently learning GO and improving my Python through the Boot.dev backend programming course. Also learning Godot and GDscript for personal projects.
+- I'm looking for a entry/junior level role as a software engineer or technical support engineer.
+- I personally love the process of troubleshooting code and looking for solutions to bugs. Being able to fix a problem is quite satisfying!
+  
 
 <!--
 **CyberpunkLuna/CyberpunkLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
