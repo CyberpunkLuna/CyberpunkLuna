@@ -7,7 +7,12 @@ I'm a big fan and proponent of the open source movement, my current open source 
 - I'm currently learning GO and improving my Python through the Boot.dev backend programming course. Also learning Godot and GDscript for personal projects.
 - I'm looking for a entry/junior level role as a software engineer or technical support engineer.
 - I personally love the process of troubleshooting code and looking for solutions to bugs. Being able to fix a problem is quite satisfying!
-  
+
+### Languages:
+<div id="language-badges">
+  <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"></a>
+</div>
 
 <!--
 **CyberpunkLuna/CyberpunkLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
